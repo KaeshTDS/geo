@@ -1,0 +1,7 @@
+{
+  "name": "StoryGeo",
+  "description": "An interactive, story-based geography and history learning app for children aged 6-12, featuring AI-generated adventures and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
